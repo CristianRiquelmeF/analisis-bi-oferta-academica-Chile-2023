@@ -100,12 +100,11 @@ oferta-academica-bi/
 │   └── dashboard_oferta_academica.pbix
 │
 ├── docs/
-│   ├── arquitectura_modelo.png
-│   ├── dashboard_pagina_1.png
-│   └── dashboard_pagina_2.png
-│
-└── data_sample/
-    └── muestra_oferta_academica.csv
+    ├── arquitectura_modelo.png
+    ├── dashboard_pagina_1.png
+    └── dashboard_pagina_2.png
+
+
 ```
 
 ---
