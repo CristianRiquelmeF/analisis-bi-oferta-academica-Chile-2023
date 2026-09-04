@@ -19,7 +19,7 @@ El proyecto está diseñado para responder preguntas de política pública, orie
 ### Página 1: Radiografía estructural del sistema educativo
 Visualiza la distribución de programas, vacantes, matrícula y aranceles según tipo de institución (Universidades, IP, CFT, FF.AA.), con un scatter plot que cruza exigencia académica (puntaje de corte) versus costo (arancel ponderado).
 
-![Página 1](docs/dashboard_pagina_1.png)
+![Página 1](docs/bi_oferta_academica.gif)
 
 ### Página 2: Radiografía sociológica — segregación y exigencia
 Analiza la composición de género por área del conocimiento mediante una matriz de clasificación dinámica (brecha femenina, masculina o paridad relativa) y un ranking de exigencia académica promedio por campo disciplinar.
