@@ -120,4 +120,5 @@ Datos de acceso público. El repositorio incluye una muestra representativa. La 
 
 ## Autor
 
-Sociólogo con especialización en análisis de datos, modelado relacional y visualización analítica aplicada a fenómenos sociales.
+Cristian Riquelme — [GitHub: CristianRiquelmeF](https://github.com/CristianRiquelmeF)
+Sociólogo y Analista de Datos/BI.
